@@ -164,6 +164,7 @@ FLOWS = [
     'mobile_app',
     'mqtt',
     'nest',
+    'nestx2',
     'openuv',
     'owntracks',
     'point',
